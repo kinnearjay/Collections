@@ -7,5 +7,9 @@ public class Main {
 
     List<Integer> theList = col.listy();
     col.listTimesTen(theList);
+
+    Streamer st = new Streamer();
+
+    st.streamMeDaddy();
     }
 }
